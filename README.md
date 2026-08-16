@@ -45,8 +45,8 @@ This project cleans and models raw transactional e-commerce data in Excel, then 
 
 - `E-Commerce_Sales_Customer_Intelligence.pbix` — Power BI report file
 - `E-Commerce_Sales_Customer_Intelligence.pdf` — Exported dashboard PDF
-- Raw dataset: [Download here](paste-your-raw-data-drive-link)
-- Cleaned dataset: [Download here](paste-your-cleaned-data-drive-link)
+- Raw dataset: [Download here](https://drive.google.com/file/d/1R7mCHJXBI3HYvXTjbGlELs3elR8GhGFG/view?usp=sharing)
+- Cleaned dataset: [Download here](https://drive.google.com/file/d/1OuwRFFS3JxHNVdyOpRCyfx2l2Kh9if1G/view?usp=sharing)
   
 ## Data Source
 
