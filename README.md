@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing e-commerce sales, customer, and retu
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](https://github.com/iam-anjalirawat/ecommerce-sales-customer-intelligence/blob/main/Screenshot%202026-08-16%20181542.png)
 
 ## Overview
 
